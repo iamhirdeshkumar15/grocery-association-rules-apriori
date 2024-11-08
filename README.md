@@ -1,8 +1,5 @@
 # Grocery Association Rules Apriori
-R script for association rule mining on grocery transaction data using the Apriori algorithm. It explores item frequencies, visualizes data, generates rules with custom support and confidence, and exports them to a CSV file. Ideal for market basket analysis and uncovering transaction patterns.
-
-
-This project performs **association rule mining** on a grocery transaction dataset using the **Apriori** algorithm. The aim is to uncover patterns and relationships between items bought together frequently, which is useful for market basket analysis.
+R script for **association rule mining** on grocery transaction data using the **Apriori** algorithm. It explores item frequencies, visualizes data, generates rules with custom support and confidence, and exports them to a CSV file. Ideal for **market basket analysis** and uncovering transaction patterns.
 
 ## Project Overview
 
